@@ -1,6 +1,6 @@
 # Security Policy
 
-<p>All code and content in this repository are the intellectual property of [Your Name/Organization].
+<p>All code and content in this repository are the intellectual property of Aayush Mhaisgawali .
 
 Unauthorized duplication, distribution, or use of repository content without permission is prohibited.
 
