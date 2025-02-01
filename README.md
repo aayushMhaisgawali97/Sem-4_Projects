@@ -1,8 +1,10 @@
 <h1>Three projects code for system functioning that can be configured as per the requirements </h1>
 <hr>
 <br>
-<h2 style="text-align: center;"> 1) Gas leakage dection system </h2>
+<ol>
+<li style="text-align: center;"> Gas leakage dection system </li>
 <br>
-<h2 style="text-align: center ;"> 2) Sleep cycle Monitoring Lamp </h2>
+<li style="text-align: center ;"> Sleep cycle Monitoring Lamp </li>
 <br>
-<h2 style="text-align: center;" > 3) Sound sensitive library desk lamp </h2>
+<li style="text-align: center;" > Sound sensitive library desk lamp </li>
+</ol>
