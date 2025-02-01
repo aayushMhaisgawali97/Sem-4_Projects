@@ -1,4 +1,4 @@
-# Three projects code for system functioning that can be configured as per the requirements 
+<h1>Three projects code for system functioning that can be configured as per the requirements </h1>
 <hr>
 <br>
 <h2 style="text-align: center;"> 1) Gas leakage dection system </h2>
